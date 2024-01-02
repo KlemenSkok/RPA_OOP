@@ -1,0 +1,6 @@
+*
+!/**/
+!*.*
+# ^ ignorira vse datoteke brez koncnice (Linux)
+.*.docx#
+*.exe
